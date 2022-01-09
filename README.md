@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahsan Omerjee
 - 👀 I’m interested in Projects
-- 🌱 I’m currently learning python and C++
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate in Projects so that it help me in learning
 - 📫 You can reach me through my email that is omerjee.ahsan@gmail.com
 
