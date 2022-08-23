@@ -17,8 +17,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ahsan2002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahsan2002&icon=0&color=2)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=ahsan2002&label=Profile%20Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
 <!---
 ahsan2002/ahsan2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
