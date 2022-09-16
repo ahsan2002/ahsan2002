@@ -17,7 +17,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ahsan2002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-<a href="https://github.com/ahsan2002"><img src="https://activity-graph.herokuapp.com/graph?username=Fashad-Ahmed&bg_color=000000&color=ffffff&line=84cc16&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/ahsan2002"><img src="https://activity-graph.herokuapp.com/graph?username=ahsan2002&bg_color=000000&color=ffffff&line=84cc16&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahsan2002&label=Profile%20Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
