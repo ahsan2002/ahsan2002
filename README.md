@@ -1,5 +1,4 @@
-![img width:100px height:50px](https://user-images.githubusercontent.com/84373001/193592538-d90ef0dc-0d26-49ed-924b-95d7a94c2f3a.jpg)
-
+<img src="(https://camo.githubusercontent.com/fd0aefb43e37cfad5fc5145c8042e01e115b5f00339fea1a5c83c48e22484324/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f34332f77616c6c686176656e2d34336a7264392e6a7067)" width="100" height="100">
 # 💫 About Me:
 👋 Hi, I’m Ahsan Omerjee.<br>👀 I’m interested in Projects<br>🌱 I’m currently learning web development.<br>💞️ I’m looking to collaborate on projects so that it helps me in learning.
 
