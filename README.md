@@ -1,4 +1,5 @@
-<img src="C:\Users\Lenovo\Desktop\img.jpg" width="100" height="100">
+![img width:100px](https://user-images.githubusercontent.com/84373001/193592538-d90ef0dc-0d26-49ed-924b-95d7a94c2f3a.jpg)
+
 # 💫 About Me:
 👋 Hi, I’m Ahsan Omerjee.<br>👀 I’m interested in Projects<br>🌱 I’m currently learning web development.<br>💞️ I’m looking to collaborate on projects so that it helps me in learning.
 
