@@ -1,4 +1,4 @@
-![img](https://user-images.githubusercontent.com/84373001/193591922-b8b32b17-abc8-4e12-9354-8a75d4ee4877.jpg)
+<img src="C:\Users\Lenovo\Desktop\img.jpg" width="100" height="100">
 # 💫 About Me:
 👋 Hi, I’m Ahsan Omerjee.<br>👀 I’m interested in Projects<br>🌱 I’m currently learning web development.<br>💞️ I’m looking to collaborate on projects so that it helps me in learning.
 
