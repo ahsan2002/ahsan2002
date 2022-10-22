@@ -21,9 +21,12 @@
 <a href="https://github.com/ahsan2002"><img src="https://activity-graph.herokuapp.com/graph?username=ahsan2002&bg_color=000000&color=ffffff&line=84cc16&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahsan2002&label=Profile%20Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
+
 
 [![@ahsanomerjee's Holopin board](https://holopin.me/ahsanomerjee)](https://holopin.io/@ahsanomerjee)
+
+
+[![](https://visitcount.itsvg.in/api?id=ahsan2002&label=Profile%20Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
 <!---
 ahsan2002/ahsan2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
