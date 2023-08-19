@@ -1,4 +1,4 @@
-![img](https://user-images.githubusercontent.com/84373001/193593030-1ef667b3-ee81-421f-a0b8-746db125741e.jpg)
+![img](https://github.com/ahsan2002/ahsan2002/assets/84373001/a5f03c9a-e6f1-41e0-a346-cb7dec401c27)
 # 💫 About Me:
 👋 Hi, I’m Ahsan Omerjee.<br>👀 I’m interested in Projects<br>🌱 I’m currently learning web development.<br>💞️ I’m looking to collaborate on projects so that it helps me in learning.
 
