@@ -1,5 +1,6 @@
-![img](https://github.com/ahsan2002/ahsan2002/assets/84373001/a5f03c9a-e6f1-41e0-a346-cb7dec401c27)
-# 💫 About Me:
+![github](https://github.com/ahsan2002/ahsan2002/assets/84373001/60da3c79-7efd-47ad-881d-c2e4593a26f9)
+# 💫 About
+ Me:
 👋 Hello! I'm Ahsan Omerjee, an aspiring MERN Stack Developer with a strong commitment to creating exceptional web experiences. Currently in my 7th semester pursuing a BS in Computer Science from NED University, I am deeply enthusiastic about crafting innovative solutions that combine technology and creativity.
 
 🚀 My educational journey has equipped me with a solid foundation in computer science principles, algorithms, and data structures. With an eye for detail and a passion for coding, I am continuously enhancing my proficiency in the MERN (MongoDB, Express.js, React.js, Node.js) stack
