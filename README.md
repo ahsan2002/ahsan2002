@@ -1,4 +1,4 @@
-![github](https://github.com/ahsan2002/ahsan2002/assets/84373001/60da3c79-7efd-47ad-881d-c2e4593a26f9)
+![github](https://github.com/ahsan2002/ahsan2002/assets/84373001/c0ce6eb4-cb33-44be-95ab-09aefd1be668)
 # 💫 About
  Me:
 👋 Hello! I'm Ahsan Omerjee, an aspiring MERN Stack Developer with a strong commitment to creating exceptional web experiences. Currently in my 7th semester pursuing a BS in Computer Science from NED University, I am deeply enthusiastic about crafting innovative solutions that combine technology and creativity.
