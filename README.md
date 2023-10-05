@@ -4,6 +4,7 @@
 	<a href="https://www.linkedin.com/in/ahsan-omerjee-60401b1b4/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
   <a href="https://github.com/ahsan2002"><img src="https://img.shields.io/github/followers/ahsan2002.svg?label=GitHub&style=social" alt="GitHub"></a>  
 </p>
+
 ## 💫 About Me:
 I'm an aspiring MERN Stack Developer with a strong commitment to creating exceptional web experiences. Currently in my 7th semester pursuing a BS in Computer Science from NED University, I am deeply enthusiastic about crafting innovative solutions that combine technology and creativity.
 
