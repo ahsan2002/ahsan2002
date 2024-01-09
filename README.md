@@ -11,7 +11,7 @@ I'm an aspiring MERN Stack Developer with a strong commitment to creating except
 My educational journey has equipped me with a solid foundation in computer science principles, algorithms, and data structures. With an eye for detail and a passion for coding, I am continuously enhancing my proficiency in the MERN (MongoDB, Express.js, React.js, Node.js) stack
 
 ## 🔧 Technologies:
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,materialui,tailwind,nodejs,express,prisma,bash,git,vscode&theme=dark&perline=15)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,materialui,tailwind,nodejs,express,prisma,bash,git,vscode&theme=dark&perline=15)
 
 
 ## 📊 GitHub Stats:
